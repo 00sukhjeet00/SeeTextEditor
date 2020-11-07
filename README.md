@@ -5,8 +5,8 @@ It complie c++,python,Html.
 
 Shortcut's
 
-Ctrl+o <<Open File>>
+Ctrl+o:Open File
 
-Ctrl+s <<Save File>>
+Ctrl+s:Save File
 
-Ctrl+b <<complie program>>
+Ctrl+b:complie program
